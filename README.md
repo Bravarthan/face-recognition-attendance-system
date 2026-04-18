@@ -25,7 +25,7 @@ data/ - dataset samples
 
 ## 📦 Model Download
 Download trained model here:  
-👉 PASTE YOUR GOOGLE DRIVE LINK HERE
+[(https://drive.google.com/file/d/1GtBlQE0YJBg5VeTSJZDVWdGgLym_5Mcc/view?usp=drive_link)]
 
 ## ▶️ How to Run
 1. Install requirements:
